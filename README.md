@@ -1,7 +1,7 @@
 # EpisodeAgenda
 My first Java and coding Desktop Application that allows user to create their own TV series schedule and get information about them such as casts, info, IMDB points and etc. 
 
-This application was our and my first coding experience with JAVA fully 3 years ago (2015). My job in this project was that creating database classes and structure, connection front end and back end services and parsing the XML structure that comes from OMDB API  as a response. Our application was working through OMDB online api. Due to API changes, application may not be working right now.
+This application was our and my first coding experience with JAVA fully 3 years ago (2015). My job in this project was that creating database classes and structure, make a connection of front end and back end services and parsing the XML structure that comes from OMDB API  as a response. Our application was working through OMDB online api. Due to API changes, application may not be working right now.
 For underlying ideas and comphresenhive information of how we started this project as a group, you can check the reports.
 Episode Agenda readme
 
